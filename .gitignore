@@ -1,0 +1,5 @@
+node_modules/
+dist/
+*.pdf
+*.png
+效果图.png
